@@ -8,3 +8,5 @@ This is section 1 (staging)
 This is section 2 (staging)
 ## Conclusion
 This is the conclusion (working directory)
+## Copyright
+This is the copyright section
